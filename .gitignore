@@ -7,6 +7,7 @@ dc-tool_*
 *.kmg
 *.pkg
 filesystem
+upload.sh
 
 windows/.vs/*
 windows/Release/*
